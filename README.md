@@ -9,7 +9,7 @@ my name is veronica, an I'm a junior front end developer. In this profile you ca
 
 <hr/>
 <p>
-  Know thy self, know thy enemy. A thousand battles, a thousand victories.
+ "Know thy self, know thy enemy. A thousand battles, a thousand victories"
 </p>
 <h2>Sun Tsu</h2>
 
