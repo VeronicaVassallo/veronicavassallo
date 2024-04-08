@@ -14,8 +14,9 @@ my name is veronica, an I'm a junior front end developer. In this profile you ca
 <br/>
 <hr/>
 <h1>Technologies</h1>
+![MVM1-1](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/33c50d08-8b32-4f56-b868-d42225d80220)
 
-![mern](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/878124da-0a28-4ce9-977e-5f3a6ba2bb0a)
+
 
 
 
