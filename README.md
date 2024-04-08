@@ -17,7 +17,38 @@ my name is veronica, an I'm a junior front end developer. In this profile you ca
 
 ![MVM1-1](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/33c50d08-8b32-4f56-b868-d42225d80220)
 
-
+<ul>
+  <li>
+   Javascript ES6
+  </li>
+  <li>
+   Typescript
+  </li>
+   <li>
+   CSS3
+  </li>
+  <li>
+   HTML5
+  </li>
+   <li>
+   React
+  </li>
+  <li>
+   Redux
+  </li>
+   <li>
+   MongoDB
+  </li>
+   <li>
+   API REST
+  </li>
+    <li>
+   Express
+  </li>
+   <li>
+   npm
+  </li>
+</ul>
 
 
 
