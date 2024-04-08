@@ -15,7 +15,8 @@ my name is veronica, an I'm a junior front end developer. In this profile you ca
 <hr/>
 <h1>Technologies</h1>
 
-![MERN-Stack](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/41ffa278-9917-4088-809e-c2d249f0f754)
+![1646980_23f7_3](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/e55a9ec3-fcb0-4184-8804-6ae5dc1d079d)
+
 
 
 
