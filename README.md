@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-![tumblr_6bf2403c32afcbcc96f72477629435d1_de469e15_500](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/b4113c7f-9fe3-4c16-a8c6-b2d2b58a477a)
+![e77a1e25a95370f4f625c115f1622378](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/e013c83d-8733-4088-9b5f-d8d3c900ad0c)
 
 <h2>About me: </h2>
 My name is veronica and I'm a junior front end developer.
