@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
-![tumblr_6bf2403c32afcbcc96f72477629435d1_de469e15_500](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/2ca8640a-bcb8-4250-8fb0-62755e4fcfb0)
-
+![e77a1e25a95370f4f625c115f1622378](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/52a5d4dd-0105-43ad-83e9-b7fa57b869c7)
 
 
 <h2>About me: </h2>
