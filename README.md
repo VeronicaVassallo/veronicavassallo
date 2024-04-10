@@ -1,6 +1,7 @@
-###"Why can't an artist become a developer?" 
+<h1>"Why can't an artist become a developer?"</h1>
 
-![ace605d0df931a39dbeb7a0bc7f62b6d](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/65af998b-23f1-4eb4-a662-511c14a29c0a)
+![211236](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/db6a434d-f551-4d13-a32b-f034082bfa20)
+
 
 <h2>About me: </h2>
 My name is veronica and I'm a junior front end developer.
