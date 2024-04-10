@@ -1,6 +1,6 @@
 <h1>"Why can't an artist become a developer?"</h1>
 
-![giphy](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/c26e49bf-2c95-4a7a-b633-bbb977cd6671)
+![ace605d0df931a39dbeb7a0bc7f62b6d](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/faa8c743-e06a-4f6a-bc01-5ad024eaf9bf)
 
 
 <h2>About me: </h2>
