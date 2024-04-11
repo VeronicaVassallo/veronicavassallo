@@ -1,7 +1,8 @@
 <h1>"Why can't an artist become a developer?"</h1>
 
 
-![Computer-screen-code-glitch-animation-gif-background-free](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/ab5e83a9-82f2-4509-baa2-a71816257d86)
+
+![Ml33kt](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/5437ec64-0ad8-4aaa-9e1a-ef24f484647f)
 
 
 
