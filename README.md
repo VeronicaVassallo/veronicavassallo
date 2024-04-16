@@ -18,8 +18,6 @@ In this profile you can see my latest projects.
 <hr/>
 <h1>Technologies</h1>
 
-![MVM1-1](https://github.com/VeronicaVassallo/veronicavassallo/assets/128144216/33c50d08-8b32-4f56-b868-d42225d80220)
-
 <ul>
   <li>
    Javascript ES6
