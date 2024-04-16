@@ -39,6 +39,9 @@ In this profile you can see my latest projects.
   <li>
    Redux
   </li>
+    <li>
+   Angular
+  </li>
    <li>
    MongoDB
   </li>
@@ -50,6 +53,12 @@ In this profile you can see my latest projects.
   </li>
    <li>
    npm
+  </li>
+    <li>
+   Boostrapt
+  </li>
+    <li>
+   Tailwind
   </li>
 </ul>
 
