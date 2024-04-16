@@ -55,7 +55,7 @@ In this profile you can see my latest projects.
    npm
   </li>
     <li>
-   Boostrapt
+   Bootstrap
   </li>
     <li>
    Tailwind
