@@ -26,6 +26,9 @@ In this profile you can see my latest projects.
    Typescript
   </li>
    <li>
+   Java
+  </li>
+   <li>
    CSS3
   </li>
   <li>
