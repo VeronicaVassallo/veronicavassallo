@@ -8,7 +8,7 @@
 
 
 <h2>About me: </h2>
-My name is Veronica and I'm a junior front end developer.
+My name is Veronica and I'm a front end developer.
 I studied at the Academy of Fine Arts, in this context I developed my passion for computer graphics, 
 3D sculpture and programming. After the academy I decided to consolidate my IT knowledge by attending the Epicode course
 In this profile you can see my latest projects.
